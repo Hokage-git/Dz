@@ -1,0 +1,20 @@
+﻿  ConsoleApplication14.cpp
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(101,51): error C2059: синтаксическая ошибка: ;
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(104,5): error C2059: синтаксическая ошибка: if
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(104,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(104,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(110,5): error C2059: синтаксическая ошибка: else
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(110,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(110,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(114,5): error C2059: синтаксическая ошибка: if
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(114,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(114,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(120,5): error C2059: синтаксическая ошибка: else
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(120,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(120,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(124,5): error C2059: синтаксическая ошибка: if
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(124,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(124,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(130,5): error C2059: синтаксическая ошибка: if
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(133,1): error C2059: синтаксическая ошибка: }
+C:\Users\derta\source\repos\ConsoleApplication14\ConsoleApplication14\ConsoleApplication14.cpp(133,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
